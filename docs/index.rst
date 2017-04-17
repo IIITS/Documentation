@@ -3,18 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to IT Support Modules' documentation!
-====================================================
+IT Support Modules' docs!
+=========================
+
+
+What is it for ?
+-----------------
+This documentation set is for IT Support team and its enthusiast contributors to work in a collaborative manner.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of contents:
 
+   cosmos
+   open-vz
+   dns
+   git
+   docs
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
